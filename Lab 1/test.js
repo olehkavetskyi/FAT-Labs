@@ -1,0 +1,1 @@
+console.log('Oleh Kavetskyi sais hello!');
